@@ -1,0 +1,12 @@
+{
+  "name": "node-docker-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
